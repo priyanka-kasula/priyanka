@@ -1,0 +1,10 @@
+<suite name="ravi" >
+  
+  <test name="LinkTesting" >
+    <classes>
+       <class name="mavenpack.*" />
+    </classes>
+  </test>
+ 
+  
+</suite>

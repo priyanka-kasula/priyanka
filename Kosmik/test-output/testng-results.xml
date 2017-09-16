@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ravi" duration-ms="43809" started-at="2017-05-18T03:02:27Z" finished-at="2017-05-18T03:03:11Z">
+    <groups>
+    </groups>
+    <test name="LinkTesting" duration-ms="43809" started-at="2017-05-18T03:02:27Z" finished-at="2017-05-18T03:03:11Z">
+      <class name="mavenpack.LinksTesting1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:mavenpack.LinksTesting1@3532ec19]" name="setup" is-config="true" duration-ms="8952" started-at="2017-05-18T08:32:27Z" finished-at="2017-05-18T08:32:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="linktesting1()[pri:0, instance:mavenpack.LinksTesting1@3532ec19]" name="linktesting1" duration-ms="2026" started-at="2017-05-18T08:32:36Z" finished-at="2017-05-18T08:32:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linktesting1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:mavenpack.LinksTesting1@3532ec19]" name="teardown" is-config="true" duration-ms="1414" started-at="2017-05-18T08:32:38Z" finished-at="2017-05-18T08:32:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- mavenpack.LinksTesting1 -->
+      <class name="mavenpack.LinksTesting2">
+        <test-method status="PASS" signature="setup()[pri:0, instance:mavenpack.LinksTesting2@68c4039c]" name="setup" is-config="true" duration-ms="15324" started-at="2017-05-18T08:32:39Z" finished-at="2017-05-18T08:32:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="linkTesting2()[pri:0, instance:mavenpack.LinksTesting2@68c4039c]" name="linkTesting2" duration-ms="14740" started-at="2017-05-18T08:32:54Z" finished-at="2017-05-18T08:33:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkTesting2 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:mavenpack.LinksTesting2@68c4039c]" name="teardown" is-config="true" duration-ms="1318" started-at="2017-05-18T08:33:09Z" finished-at="2017-05-18T08:33:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- mavenpack.LinksTesting2 -->
+    </test> <!-- LinkTesting -->
+  </suite> <!-- ravi -->
+</testng-results>
