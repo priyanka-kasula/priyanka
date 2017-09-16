@@ -10,7 +10,7 @@ public class BrowserLaunch
 	{
 		System.setProperty("webdriver.chrome.driver", "C:\\chromedriver.exe");
 		//ChromeDriver driver=new ChromeDriver();
-		System.out.println("hello");
+		
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.amazon.com");
 		
